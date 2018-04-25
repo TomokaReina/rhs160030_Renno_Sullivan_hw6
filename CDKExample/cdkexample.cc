@@ -8,9 +8,10 @@
 
 #include <iostream>
 #include "cdk.h"
+#include "binaryHeader.h"
 
 
-#define MATRIX_WIDTH 4
+#define MATRIX_WIDTH 5
 #define MATRIX_HEIGHT 3
 #define BOX_WIDTH 15
 #define MATRIX_NAME_STRING "Test Matrix"
